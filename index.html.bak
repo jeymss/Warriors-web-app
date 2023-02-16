@@ -1,0 +1,43 @@
+<!doctype html>
+<!-- divinectorweb.com -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Warriors App</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <video src="bgwarriros.mp4" class="vid-bg" autoplay loop muted></video>
+
+        <div class="nav-area">
+            <div class="logo">Warriors</div>
+
+           <!--  <ul class="menu-area">
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Portfolio</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul> -->
+			
+        </div>
+
+        <div class="welcome-text">
+			<h3> Welcome to</h3>
+            <h2>Warriors Web Application</h2>
+            <p>Warriors web application for monitoring of real time data coming from the hybrid pannels.</p>
+			<p>This environment is launched with Elastic Beanstalk Python Platform.</p>
+            
+			<button class="btn">Back end (IoT core) </button>
+			<button class="btn">Monitoring System </button>
+			<button class="btn">Mock up data </button>
+        </div>
+    </header>   
+
+</body>
+
+</html>
