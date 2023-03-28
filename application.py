@@ -200,7 +200,7 @@ header .welcome-text {
 			<p>This environment is launched with Elastic Beanstalk Python Platform.</p>
             
     <button class="btn">Back end </button>
-    <button class="btn"onclick="window.location.href='https://sites.google.com/my.jru.edu/warriors/home';">Monitoring System </button>
+    <button class="btn"onclick="window.location.href='cayenne.mydevices.com';">Monitoring System           </button>
     <button class="btn"onclick="window.location.href='https://gelannicolan.wixsite.com/website';">About Us </button>
        
         </div>
